@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "webtorrent": "0.x",
-    "wrtc": "0.0.58"
+    "wrtc": "0.0.59"
   },
   "devDependencies": {
-    "standard": "^5.0.2"
+    "standard": "^6.0.4"
   },
   "homepage": "http://webtorrent.io",
   "keywords": [
